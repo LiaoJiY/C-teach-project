@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6E38\u620F\u5F00\u53D1\\teach.8.21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2361F097-A4F3-467E-BE39-1126111AA8F4}|teach.8.21\\teach.8.21.vcxproj|D:\\\u6E38\u620F\u5F00\u53D1\\teach.8.21\\teach.8.21\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2361F097-A4F3-467E-BE39-1126111AA8F4}|teach.8.21\\teach.8.21.vcxproj|solutionrelative:teach.8.21\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\\teach.8.21\\teach.8.21\\test.c",
+              "RelativeDocumentMoniker": "teach.8.21\\test.c",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\\teach.8.21\\teach.8.21\\test.c",
+              "RelativeToolTip": "teach.8.21\\test.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-21T06:34:33.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
